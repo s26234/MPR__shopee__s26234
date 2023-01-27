@@ -10,4 +10,5 @@ class ShopeeS26234ApplicationTests {
 	void contextLoads() {
 	}
 
+
 }
